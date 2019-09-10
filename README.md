@@ -4,6 +4,7 @@ Using collaborative filtering to implement user based and item based recommendat
 
 # Train
 To fit and test recommendation system, run:
+
  `python main.py`
  
  
