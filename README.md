@@ -2,13 +2,15 @@
 Using collaborative filtering to implement user based and item based recommendation system.
 
 
-# Train
+
+## Train
 To fit and test recommendation system, run:
 
  `python main.py`
  
  
-# Data
+ 
+## Data
 Movie Lens Small Latest Dataset
 
 users count: 610
