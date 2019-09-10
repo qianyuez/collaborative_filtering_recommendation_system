@@ -1,9 +1,11 @@
 # collaborative_filtering_recommendation_system
 Using collaborative filtering to implement user based and item based recommendation system.
 
+
 # Train
 To fit and test recommendation system, run:
  `python main.py`
+ 
  
 # Data
 Movie Lens Small Latest Dataset
