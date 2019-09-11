@@ -5,8 +5,9 @@ Using collaborative filtering to implement user based and item based recommendat
 
 ## Train
 To fit and test recommendation system, run:
+`cd collaborative_filtering_recommendation_system`
 
- `python main.py`
+`python main.py`
  
  
  
